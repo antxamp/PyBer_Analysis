@@ -13,7 +13,7 @@ The purpose of this challenge is to create a summary dataframe of weekly and ult
 #### 1. Below are the differences in ride-sharing data among different city types
 ##### a. Per the dataframe below, Urban cities have a higher number of in both columns of total drivers and total rides while the other two city types 'Suburban and Rural' display a lower count. 
 ##### b. One noticable difference for the Urban city type is that there are more drivers than there are rides. Among the three the other two city two city types have more total rides than they do total drivers.
-##### c. Given the results from the data the'Average Fare per Driver' is significantly higher for Rural city types compared to Urban types on a weekly basis. 
+##### c. Given the results from the data of 'Average Fare per Driver' is significantly higher for Rural city types compared to Urban types on a weekly basis. 
 
 ![image](https://github.com/antxamp/PyBer_Analysis/blob/main/analysis/pyber_summary_df.PNG)
 
